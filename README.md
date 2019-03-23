@@ -4,7 +4,7 @@ WebTetris an online 2-player Tetris game. There're 4 pages: sign up, log in, lob
 
 # Run it locally
 
-Install and run `vagrant`. Service will start on localhost:8080/. You can play by opening two DIFFERENT browsers, create several different accounts and join the same game room.
+Install and run `vagrant`. Service will start on `localhost:8080/`. You can play by opening two DIFFERENT browsers, create several different accounts and join the same game room.
 
 # Notes
 
